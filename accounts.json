@@ -1,0 +1,242 @@
+[
+  {
+    "account_id": "A000001",
+    "customer_id": "C00001",
+    "account_type": "Credit",
+    "balance": 43942.16,
+    "opened_at": "2025-08-31",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000002",
+    "customer_id": "C00002",
+    "account_type": "Checking",
+    "balance": 12081.54,
+    "opened_at": "2024-03-07",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000003",
+    "customer_id": "C00003",
+    "account_type": "Brokerage",
+    "balance": 40810.36,
+    "opened_at": "2025-04-07",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000004",
+    "customer_id": "C00004",
+    "account_type": "Brokerage",
+    "balance": 47345.09,
+    "opened_at": "2021-12-05",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000005",
+    "customer_id": "C00005",
+    "account_type": "Brokerage",
+    "balance": 48219.93,
+    "opened_at": "2024-01-10",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000006",
+    "customer_id": "C00005",
+    "account_type": "Credit",
+    "balance": 19979.67,
+    "opened_at": "2024-10-07",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000007",
+    "customer_id": "C00006",
+    "account_type": "Brokerage",
+    "balance": 6094.16,
+    "opened_at": "2022-04-06",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000008",
+    "customer_id": "C00007",
+    "account_type": "Checking",
+    "balance": 29436.02,
+    "opened_at": "2022-04-17",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000009",
+    "customer_id": "C00008",
+    "account_type": "Checking",
+    "balance": 35406.66,
+    "opened_at": "2021-05-01",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000010",
+    "customer_id": "C00009",
+    "account_type": "Checking",
+    "balance": 42988.79,
+    "opened_at": "2021-05-26",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000011",
+    "customer_id": "C00010",
+    "account_type": "Brokerage",
+    "balance": 10751.13,
+    "opened_at": "2021-09-28",
+    "status": "FROZEN"
+  },
+  {
+    "account_id": "A000012",
+    "customer_id": "C00011",
+    "account_type": "Brokerage",
+    "balance": 40384.48,
+    "opened_at": "2022-01-25",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000013",
+    "customer_id": "C00012",
+    "account_type": "Brokerage",
+    "balance": 17747.16,
+    "opened_at": "2023-04-22",
+    "status": "FROZEN"
+  },
+  {
+    "account_id": "A000014",
+    "customer_id": "C00013",
+    "account_type": "Checking",
+    "balance": 33684.56,
+    "opened_at": "2024-08-16",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000015",
+    "customer_id": "C00013",
+    "account_type": "Checking",
+    "balance": 20160.93,
+    "opened_at": "2022-11-26",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000016",
+    "customer_id": "C00014",
+    "account_type": "Savings",
+    "balance": 9550.93,
+    "opened_at": "2023-07-08",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000017",
+    "customer_id": "C00015",
+    "account_type": "Savings",
+    "balance": 13963.33,
+    "opened_at": "2022-05-27",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000018",
+    "customer_id": "C00016",
+    "account_type": "Checking",
+    "balance": 2576.89,
+    "opened_at": "2024-01-13",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000019",
+    "customer_id": "C00017",
+    "account_type": "Savings",
+    "balance": 8357.24,
+    "opened_at": "2023-09-22",
+    "status": "FROZEN"
+  },
+  {
+    "account_id": "A000020",
+    "customer_id": "C00018",
+    "account_type": "Brokerage",
+    "balance": 45127.02,
+    "opened_at": "2021-12-04",
+    "status": "FROZEN"
+  },
+  {
+    "account_id": "A000021",
+    "customer_id": "C00019",
+    "account_type": "Brokerage",
+    "balance": 13296.89,
+    "opened_at": "2025-05-25",
+    "status": "FROZEN"
+  },
+  {
+    "account_id": "A000022",
+    "customer_id": "C00020",
+    "account_type": "Brokerage",
+    "balance": 34844.75,
+    "opened_at": "2025-02-05",
+    "status": "FROZEN"
+  },
+  {
+    "account_id": "A000023",
+    "customer_id": "C00005",
+    "account_type": "Savings",
+    "balance": 14870.56,
+    "opened_at": "2021-04-30",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000024",
+    "customer_id": "C00011",
+    "account_type": "Checking",
+    "balance": 2554.61,
+    "opened_at": "2023-09-04",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000025",
+    "customer_id": "C00002",
+    "account_type": "Checking",
+    "balance": 42574.56,
+    "opened_at": "2021-05-21",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000026",
+    "customer_id": "C00008",
+    "account_type": "Brokerage",
+    "balance": 6038.34,
+    "opened_at": "2025-12-29",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000027",
+    "customer_id": "C00019",
+    "account_type": "Checking",
+    "balance": 30988.11,
+    "opened_at": "2023-05-09",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000028",
+    "customer_id": "C00009",
+    "account_type": "Savings",
+    "balance": 33502.81,
+    "opened_at": "2022-10-06",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000029",
+    "customer_id": "C00009",
+    "account_type": "Brokerage",
+    "balance": 6587.37,
+    "opened_at": "2024-08-14",
+    "status": "OPEN"
+  },
+  {
+    "account_id": "A000030",
+    "customer_id": "C00015",
+    "account_type": "Credit",
+    "balance": 46454.47,
+    "opened_at": "2021-05-29",
+    "status": "OPEN"
+  }
+]

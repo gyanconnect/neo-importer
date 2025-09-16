@@ -1,0 +1,1368 @@
+{
+  "customers": [
+    {
+      "customer_id": "C00001",
+      "first_name": "Noah",
+      "last_name": "Smith",
+      "email": "noah.smith1@example.com",
+      "phone": "+1-450-428-3286",
+      "city": "Phoenix",
+      "state": "AZ",
+      "created_at": "2021-07-29",
+      "active": true
+    },
+    {
+      "customer_id": "C00002",
+      "first_name": "Elijah",
+      "last_name": "Wilson",
+      "email": "elijah.wilson2@example.com",
+      "phone": "+1-230-295-4582",
+      "city": "New York",
+      "state": "NY",
+      "created_at": "2022-04-22",
+      "active": true
+    },
+    {
+      "customer_id": "C00003",
+      "first_name": "Evelyn",
+      "last_name": "Miller",
+      "email": "evelyn.miller3@example.com",
+      "phone": "+1-629-425-8359",
+      "city": "Dallas",
+      "state": "TX",
+      "created_at": "2024-04-21",
+      "active": true
+    },
+    {
+      "customer_id": "C00004",
+      "first_name": "Ava",
+      "last_name": "Garcia",
+      "email": "ava.garcia4@example.com",
+      "phone": "+1-548-484-3547",
+      "city": "San Antonio",
+      "state": "TX",
+      "created_at": "2022-03-17",
+      "active": true
+    },
+    {
+      "customer_id": "C00005",
+      "first_name": "Noah",
+      "last_name": "Williams",
+      "email": "noah.williams5@example.com",
+      "phone": "+1-299-567-6635",
+      "city": "San Antonio",
+      "state": "TX",
+      "created_at": "2024-05-21",
+      "active": true
+    },
+    {
+      "customer_id": "C00006",
+      "first_name": "Liam",
+      "last_name": "Anderson",
+      "email": "liam.anderson6@example.com",
+      "phone": "+1-327-587-2291",
+      "city": "Dallas",
+      "state": "TX",
+      "created_at": "2024-02-05",
+      "active": true
+    },
+    {
+      "customer_id": "C00007",
+      "first_name": "Abigail",
+      "last_name": "Lopez",
+      "email": "abigail.lopez7@example.com",
+      "phone": "+1-396-921-2139",
+      "city": "San Jose",
+      "state": "CA",
+      "created_at": "2021-04-04",
+      "active": true
+    },
+    {
+      "customer_id": "C00008",
+      "first_name": "Mason",
+      "last_name": "Williams",
+      "email": "mason.williams8@example.com",
+      "phone": "+1-303-589-5554",
+      "city": "Houston",
+      "state": "TX",
+      "created_at": "2023-07-18",
+      "active": true
+    },
+    {
+      "customer_id": "C00009",
+      "first_name": "Ethan",
+      "last_name": "Lopez",
+      "email": "ethan.lopez9@example.com",
+      "phone": "+1-414-886-5374",
+      "city": "Philadelphia",
+      "state": "PA",
+      "created_at": "2024-12-08",
+      "active": true
+    },
+    {
+      "customer_id": "C00010",
+      "first_name": "Abigail",
+      "last_name": "Garcia",
+      "email": "abigail.garcia10@example.com",
+      "phone": "+1-946-450-3677",
+      "city": "Dallas",
+      "state": "TX",
+      "created_at": "2023-08-05",
+      "active": false
+    },
+    {
+      "customer_id": "C00011",
+      "first_name": "Sophia",
+      "last_name": "Moore",
+      "email": "sophia.moore11@example.com",
+      "phone": "+1-901-532-1916",
+      "city": "Houston",
+      "state": "TX",
+      "created_at": "2022-04-15",
+      "active": true
+    },
+    {
+      "customer_id": "C00012",
+      "first_name": "Isabella",
+      "last_name": "Gonzalez",
+      "email": "isabella.gonzalez12@example.com",
+      "phone": "+1-267-416-6155",
+      "city": "Phoenix",
+      "state": "AZ",
+      "created_at": "2022-03-12",
+      "active": false
+    },
+    {
+      "customer_id": "C00013",
+      "first_name": "Charlotte",
+      "last_name": "Anderson",
+      "email": "charlotte.anderson13@example.com",
+      "phone": "+1-471-342-5040",
+      "city": "Chicago",
+      "state": "IL",
+      "created_at": "2024-02-24",
+      "active": true
+    },
+    {
+      "customer_id": "C00014",
+      "first_name": "Elijah",
+      "last_name": "Wilson",
+      "email": "elijah.wilson14@example.com",
+      "phone": "+1-608-570-4593",
+      "city": "San Jose",
+      "state": "CA",
+      "created_at": "2021-10-11",
+      "active": false
+    },
+    {
+      "customer_id": "C00015",
+      "first_name": "Mia",
+      "last_name": "Johnson",
+      "email": "mia.johnson15@example.com",
+      "phone": "+1-356-842-3621",
+      "city": "Los Angeles",
+      "state": "CA",
+      "created_at": "2024-10-25",
+      "active": false
+    },
+    {
+      "customer_id": "C00016",
+      "first_name": "Abigail",
+      "last_name": "Williams",
+      "email": "abigail.williams16@example.com",
+      "phone": "+1-590-810-8668",
+      "city": "San Antonio",
+      "state": "TX",
+      "created_at": "2023-12-20",
+      "active": true
+    },
+    {
+      "customer_id": "C00017",
+      "first_name": "Evelyn",
+      "last_name": "Smith",
+      "email": "evelyn.smith17@example.com",
+      "phone": "+1-898-749-5371",
+      "city": "Los Angeles",
+      "state": "CA",
+      "created_at": "2024-08-05",
+      "active": true
+    },
+    {
+      "customer_id": "C00018",
+      "first_name": "Noah",
+      "last_name": "Martinez",
+      "email": "noah.martinez18@example.com",
+      "phone": "+1-361-664-1053",
+      "city": "San Antonio",
+      "state": "TX",
+      "created_at": "2022-06-24",
+      "active": true
+    },
+    {
+      "customer_id": "C00019",
+      "first_name": "Benjamin",
+      "last_name": "Brown",
+      "email": "benjamin.brown19@example.com",
+      "phone": "+1-854-719-4258",
+      "city": "Phoenix",
+      "state": "AZ",
+      "created_at": "2021-11-10",
+      "active": true
+    },
+    {
+      "customer_id": "C00020",
+      "first_name": "Ethan",
+      "last_name": "Moore",
+      "email": "ethan.moore20@example.com",
+      "phone": "+1-200-813-6310",
+      "city": "Dallas",
+      "state": "TX",
+      "created_at": "2023-09-28",
+      "active": true
+    }
+  ],
+  "accounts": [
+    {
+      "account_id": "A000001",
+      "customer_id": "C00001",
+      "account_type": "Credit",
+      "balance": 43942.16,
+      "opened_at": "2025-08-31",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000002",
+      "customer_id": "C00002",
+      "account_type": "Checking",
+      "balance": 12081.54,
+      "opened_at": "2024-03-07",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000003",
+      "customer_id": "C00003",
+      "account_type": "Brokerage",
+      "balance": 40810.36,
+      "opened_at": "2025-04-07",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000004",
+      "customer_id": "C00004",
+      "account_type": "Brokerage",
+      "balance": 47345.09,
+      "opened_at": "2021-12-05",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000005",
+      "customer_id": "C00005",
+      "account_type": "Brokerage",
+      "balance": 48219.93,
+      "opened_at": "2024-01-10",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000006",
+      "customer_id": "C00005",
+      "account_type": "Credit",
+      "balance": 19979.67,
+      "opened_at": "2024-10-07",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000007",
+      "customer_id": "C00006",
+      "account_type": "Brokerage",
+      "balance": 6094.16,
+      "opened_at": "2022-04-06",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000008",
+      "customer_id": "C00007",
+      "account_type": "Checking",
+      "balance": 29436.02,
+      "opened_at": "2022-04-17",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000009",
+      "customer_id": "C00008",
+      "account_type": "Checking",
+      "balance": 35406.66,
+      "opened_at": "2021-05-01",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000010",
+      "customer_id": "C00009",
+      "account_type": "Checking",
+      "balance": 42988.79,
+      "opened_at": "2021-05-26",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000011",
+      "customer_id": "C00010",
+      "account_type": "Brokerage",
+      "balance": 10751.13,
+      "opened_at": "2021-09-28",
+      "status": "FROZEN"
+    },
+    {
+      "account_id": "A000012",
+      "customer_id": "C00011",
+      "account_type": "Brokerage",
+      "balance": 40384.48,
+      "opened_at": "2022-01-25",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000013",
+      "customer_id": "C00012",
+      "account_type": "Brokerage",
+      "balance": 17747.16,
+      "opened_at": "2023-04-22",
+      "status": "FROZEN"
+    },
+    {
+      "account_id": "A000014",
+      "customer_id": "C00013",
+      "account_type": "Checking",
+      "balance": 33684.56,
+      "opened_at": "2024-08-16",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000015",
+      "customer_id": "C00013",
+      "account_type": "Checking",
+      "balance": 20160.93,
+      "opened_at": "2022-11-26",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000016",
+      "customer_id": "C00014",
+      "account_type": "Savings",
+      "balance": 9550.93,
+      "opened_at": "2023-07-08",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000017",
+      "customer_id": "C00015",
+      "account_type": "Savings",
+      "balance": 13963.33,
+      "opened_at": "2022-05-27",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000018",
+      "customer_id": "C00016",
+      "account_type": "Checking",
+      "balance": 2576.89,
+      "opened_at": "2024-01-13",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000019",
+      "customer_id": "C00017",
+      "account_type": "Savings",
+      "balance": 8357.24,
+      "opened_at": "2023-09-22",
+      "status": "FROZEN"
+    },
+    {
+      "account_id": "A000020",
+      "customer_id": "C00018",
+      "account_type": "Brokerage",
+      "balance": 45127.02,
+      "opened_at": "2021-12-04",
+      "status": "FROZEN"
+    },
+    {
+      "account_id": "A000021",
+      "customer_id": "C00019",
+      "account_type": "Brokerage",
+      "balance": 13296.89,
+      "opened_at": "2025-05-25",
+      "status": "FROZEN"
+    },
+    {
+      "account_id": "A000022",
+      "customer_id": "C00020",
+      "account_type": "Brokerage",
+      "balance": 34844.75,
+      "opened_at": "2025-02-05",
+      "status": "FROZEN"
+    },
+    {
+      "account_id": "A000023",
+      "customer_id": "C00005",
+      "account_type": "Savings",
+      "balance": 14870.56,
+      "opened_at": "2021-04-30",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000024",
+      "customer_id": "C00011",
+      "account_type": "Checking",
+      "balance": 2554.61,
+      "opened_at": "2023-09-04",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000025",
+      "customer_id": "C00002",
+      "account_type": "Checking",
+      "balance": 42574.56,
+      "opened_at": "2021-05-21",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000026",
+      "customer_id": "C00008",
+      "account_type": "Brokerage",
+      "balance": 6038.34,
+      "opened_at": "2025-12-29",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000027",
+      "customer_id": "C00019",
+      "account_type": "Checking",
+      "balance": 30988.11,
+      "opened_at": "2023-05-09",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000028",
+      "customer_id": "C00009",
+      "account_type": "Savings",
+      "balance": 33502.81,
+      "opened_at": "2022-10-06",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000029",
+      "customer_id": "C00009",
+      "account_type": "Brokerage",
+      "balance": 6587.37,
+      "opened_at": "2024-08-14",
+      "status": "OPEN"
+    },
+    {
+      "account_id": "A000030",
+      "customer_id": "C00015",
+      "account_type": "Credit",
+      "balance": 46454.47,
+      "opened_at": "2021-05-29",
+      "status": "OPEN"
+    }
+  ],
+  "transactions": [
+    {
+      "transaction_id": "T0000001",
+      "account_id": "A000015",
+      "type": "DEBIT",
+      "amount": -1244.21,
+      "currency": "USD",
+      "timestamp": "2023-04-24T19:21:27",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000002",
+      "account_id": "A000007",
+      "type": "CREDIT",
+      "amount": 1014.24,
+      "currency": "USD",
+      "timestamp": "2024-06-26T03:59:32",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000003",
+      "account_id": "A000029",
+      "type": "DEBIT",
+      "amount": -492.35,
+      "currency": "USD",
+      "timestamp": "2023-09-03T01:13:41",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000004",
+      "account_id": "A000027",
+      "type": "DEBIT",
+      "amount": -1088.72,
+      "currency": "USD",
+      "timestamp": "2025-08-08T04:59:59",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000005",
+      "account_id": "A000017",
+      "type": "DEBIT",
+      "amount": -20.61,
+      "currency": "USD",
+      "timestamp": "2025-10-27T12:55:26",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000006",
+      "account_id": "A000029",
+      "type": "DEBIT",
+      "amount": -272.91,
+      "currency": "USD",
+      "timestamp": "2023-06-16T06:35:25",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000007",
+      "account_id": "A000018",
+      "type": "DEBIT",
+      "amount": -315.12,
+      "currency": "USD",
+      "timestamp": "2025-07-28T13:41:25",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000008",
+      "account_id": "A000023",
+      "type": "DEBIT",
+      "amount": -689.05,
+      "currency": "USD",
+      "timestamp": "2025-02-24T03:00:55",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000009",
+      "account_id": "A000009",
+      "type": "DEBIT",
+      "amount": -1811.15,
+      "currency": "USD",
+      "timestamp": "2023-05-24T09:08:10",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000010",
+      "account_id": "A000014",
+      "type": "DEBIT",
+      "amount": -1659.55,
+      "currency": "USD",
+      "timestamp": "2023-01-06T12:11:34",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000011",
+      "account_id": "A000025",
+      "type": "DEBIT",
+      "amount": -265.99,
+      "currency": "USD",
+      "timestamp": "2023-09-09T00:12:45",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000012",
+      "account_id": "A000015",
+      "type": "DEBIT",
+      "amount": -1105.6,
+      "currency": "USD",
+      "timestamp": "2025-05-21T08:07:25",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000013",
+      "account_id": "A000004",
+      "type": "CREDIT",
+      "amount": 155.11,
+      "currency": "USD",
+      "timestamp": "2025-04-27T13:04:49",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000014",
+      "account_id": "A000027",
+      "type": "CREDIT",
+      "amount": 741.59,
+      "currency": "USD",
+      "timestamp": "2024-10-29T15:36:36",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000015",
+      "account_id": "A000002",
+      "type": "DEBIT",
+      "amount": -619.98,
+      "currency": "USD",
+      "timestamp": "2024-07-09T20:05:42",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000016",
+      "account_id": "A000022",
+      "type": "DEBIT",
+      "amount": -502.81,
+      "currency": "USD",
+      "timestamp": "2024-07-03T10:05:42",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000017",
+      "account_id": "A000029",
+      "type": "CREDIT",
+      "amount": 1750.05,
+      "currency": "USD",
+      "timestamp": "2024-01-03T18:12:26",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000018",
+      "account_id": "A000026",
+      "type": "DEBIT",
+      "amount": -1622.49,
+      "currency": "USD",
+      "timestamp": "2023-02-08T12:06:09",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000019",
+      "account_id": "A000024",
+      "type": "DEBIT",
+      "amount": -1849.35,
+      "currency": "USD",
+      "timestamp": "2025-11-06T15:56:52",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000020",
+      "account_id": "A000026",
+      "type": "CREDIT",
+      "amount": 500.09,
+      "currency": "USD",
+      "timestamp": "2025-12-25T09:32:45",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000021",
+      "account_id": "A000013",
+      "type": "DEBIT",
+      "amount": -1744.97,
+      "currency": "USD",
+      "timestamp": "2023-12-12T12:55:48",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000022",
+      "account_id": "A000027",
+      "type": "DEBIT",
+      "amount": -1837.31,
+      "currency": "USD",
+      "timestamp": "2024-04-19T02:20:24",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000023",
+      "account_id": "A000008",
+      "type": "CREDIT",
+      "amount": 52.21,
+      "currency": "USD",
+      "timestamp": "2024-09-10T23:53:18",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000024",
+      "account_id": "A000009",
+      "type": "DEBIT",
+      "amount": -1729.38,
+      "currency": "USD",
+      "timestamp": "2024-06-29T11:40:35",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000025",
+      "account_id": "A000017",
+      "type": "DEBIT",
+      "amount": -802.36,
+      "currency": "USD",
+      "timestamp": "2023-02-12T21:01:21",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000026",
+      "account_id": "A000029",
+      "type": "CREDIT",
+      "amount": 1940.95,
+      "currency": "USD",
+      "timestamp": "2025-06-20T21:57:14",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000027",
+      "account_id": "A000002",
+      "type": "DEBIT",
+      "amount": -221.26,
+      "currency": "USD",
+      "timestamp": "2024-06-21T00:08:58",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000028",
+      "account_id": "A000026",
+      "type": "DEBIT",
+      "amount": -630.79,
+      "currency": "USD",
+      "timestamp": "2024-08-21T09:07:35",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000029",
+      "account_id": "A000007",
+      "type": "DEBIT",
+      "amount": -513.17,
+      "currency": "USD",
+      "timestamp": "2023-01-03T15:03:19",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000030",
+      "account_id": "A000030",
+      "type": "CREDIT",
+      "amount": 1613.99,
+      "currency": "USD",
+      "timestamp": "2024-07-19T19:09:38",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000031",
+      "account_id": "A000003",
+      "type": "DEBIT",
+      "amount": -1898.0,
+      "currency": "USD",
+      "timestamp": "2025-08-26T00:55:03",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000032",
+      "account_id": "A000022",
+      "type": "DEBIT",
+      "amount": -1696.79,
+      "currency": "USD",
+      "timestamp": "2025-02-26T18:53:50",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000033",
+      "account_id": "A000022",
+      "type": "DEBIT",
+      "amount": -819.74,
+      "currency": "USD",
+      "timestamp": "2025-12-19T01:48:49",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000034",
+      "account_id": "A000018",
+      "type": "DEBIT",
+      "amount": -258.94,
+      "currency": "USD",
+      "timestamp": "2025-10-29T22:21:57",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000035",
+      "account_id": "A000022",
+      "type": "CREDIT",
+      "amount": 1497.53,
+      "currency": "USD",
+      "timestamp": "2025-08-14T04:03:33",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000036",
+      "account_id": "A000010",
+      "type": "DEBIT",
+      "amount": -815.12,
+      "currency": "USD",
+      "timestamp": "2024-04-17T01:16:45",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000037",
+      "account_id": "A000007",
+      "type": "DEBIT",
+      "amount": -862.63,
+      "currency": "USD",
+      "timestamp": "2024-12-23T08:00:58",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000038",
+      "account_id": "A000015",
+      "type": "DEBIT",
+      "amount": -1352.88,
+      "currency": "USD",
+      "timestamp": "2023-09-21T14:33:13",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000039",
+      "account_id": "A000003",
+      "type": "DEBIT",
+      "amount": -571.15,
+      "currency": "USD",
+      "timestamp": "2023-05-26T01:43:37",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000040",
+      "account_id": "A000022",
+      "type": "CREDIT",
+      "amount": 624.29,
+      "currency": "USD",
+      "timestamp": "2023-08-17T21:45:14",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000041",
+      "account_id": "A000002",
+      "type": "DEBIT",
+      "amount": -493.46,
+      "currency": "USD",
+      "timestamp": "2025-08-07T13:56:43",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000042",
+      "account_id": "A000015",
+      "type": "CREDIT",
+      "amount": 831.81,
+      "currency": "USD",
+      "timestamp": "2025-12-17T17:58:05",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000043",
+      "account_id": "A000016",
+      "type": "CREDIT",
+      "amount": 802.31,
+      "currency": "USD",
+      "timestamp": "2025-10-16T03:36:55",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000044",
+      "account_id": "A000001",
+      "type": "DEBIT",
+      "amount": -1785.86,
+      "currency": "USD",
+      "timestamp": "2024-10-22T10:35:56",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000045",
+      "account_id": "A000006",
+      "type": "DEBIT",
+      "amount": -1609.2,
+      "currency": "USD",
+      "timestamp": "2023-03-20T00:16:37",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000046",
+      "account_id": "A000008",
+      "type": "DEBIT",
+      "amount": -1835.35,
+      "currency": "USD",
+      "timestamp": "2024-12-10T02:07:49",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000047",
+      "account_id": "A000026",
+      "type": "DEBIT",
+      "amount": -931.96,
+      "currency": "USD",
+      "timestamp": "2024-11-18T12:19:59",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000048",
+      "account_id": "A000027",
+      "type": "DEBIT",
+      "amount": -1439.95,
+      "currency": "USD",
+      "timestamp": "2025-05-01T02:08:48",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000049",
+      "account_id": "A000029",
+      "type": "DEBIT",
+      "amount": -322.52,
+      "currency": "USD",
+      "timestamp": "2024-11-30T03:49:00",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000050",
+      "account_id": "A000025",
+      "type": "DEBIT",
+      "amount": -498.24,
+      "currency": "USD",
+      "timestamp": "2025-03-20T19:27:56",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000051",
+      "account_id": "A000021",
+      "type": "DEBIT",
+      "amount": -482.3,
+      "currency": "USD",
+      "timestamp": "2023-05-01T08:47:19",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000052",
+      "account_id": "A000010",
+      "type": "DEBIT",
+      "amount": -472.81,
+      "currency": "USD",
+      "timestamp": "2024-05-11T15:38:11",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000053",
+      "account_id": "A000003",
+      "type": "CREDIT",
+      "amount": 281.06,
+      "currency": "USD",
+      "timestamp": "2024-08-18T00:35:26",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000054",
+      "account_id": "A000005",
+      "type": "DEBIT",
+      "amount": -1414.31,
+      "currency": "USD",
+      "timestamp": "2024-10-06T11:23:46",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000055",
+      "account_id": "A000011",
+      "type": "DEBIT",
+      "amount": -1087.51,
+      "currency": "USD",
+      "timestamp": "2023-04-07T17:26:02",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000056",
+      "account_id": "A000027",
+      "type": "DEBIT",
+      "amount": -843.19,
+      "currency": "USD",
+      "timestamp": "2025-06-13T07:17:30",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000057",
+      "account_id": "A000016",
+      "type": "DEBIT",
+      "amount": -16.76,
+      "currency": "USD",
+      "timestamp": "2024-04-08T21:05:11",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000058",
+      "account_id": "A000028",
+      "type": "DEBIT",
+      "amount": -1783.82,
+      "currency": "USD",
+      "timestamp": "2025-04-16T02:19:01",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000059",
+      "account_id": "A000024",
+      "type": "CREDIT",
+      "amount": 1094.53,
+      "currency": "USD",
+      "timestamp": "2025-01-28T10:30:51",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000060",
+      "account_id": "A000009",
+      "type": "DEBIT",
+      "amount": -874.49,
+      "currency": "USD",
+      "timestamp": "2024-08-27T01:38:50",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000061",
+      "account_id": "A000022",
+      "type": "DEBIT",
+      "amount": -1359.89,
+      "currency": "USD",
+      "timestamp": "2023-09-14T09:18:48",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000062",
+      "account_id": "A000030",
+      "type": "DEBIT",
+      "amount": -259.62,
+      "currency": "USD",
+      "timestamp": "2024-09-04T02:08:23",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000063",
+      "account_id": "A000019",
+      "type": "DEBIT",
+      "amount": -1327.68,
+      "currency": "USD",
+      "timestamp": "2025-09-25T11:26:37",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000064",
+      "account_id": "A000005",
+      "type": "CREDIT",
+      "amount": 1734.37,
+      "currency": "USD",
+      "timestamp": "2023-03-20T02:44:49",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000065",
+      "account_id": "A000013",
+      "type": "DEBIT",
+      "amount": -658.07,
+      "currency": "USD",
+      "timestamp": "2024-05-22T17:41:41",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000066",
+      "account_id": "A000025",
+      "type": "DEBIT",
+      "amount": -1759.88,
+      "currency": "USD",
+      "timestamp": "2024-10-16T21:04:33",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000067",
+      "account_id": "A000027",
+      "type": "DEBIT",
+      "amount": -168.4,
+      "currency": "USD",
+      "timestamp": "2025-04-17T22:59:59",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000068",
+      "account_id": "A000012",
+      "type": "DEBIT",
+      "amount": -452.32,
+      "currency": "USD",
+      "timestamp": "2025-10-09T11:10:29",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000069",
+      "account_id": "A000025",
+      "type": "CREDIT",
+      "amount": 66.9,
+      "currency": "USD",
+      "timestamp": "2023-11-06T16:42:17",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000070",
+      "account_id": "A000020",
+      "type": "CREDIT",
+      "amount": 309.0,
+      "currency": "USD",
+      "timestamp": "2025-01-05T15:38:09",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000071",
+      "account_id": "A000004",
+      "type": "CREDIT",
+      "amount": 1130.12,
+      "currency": "USD",
+      "timestamp": "2024-12-23T09:43:24",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000072",
+      "account_id": "A000009",
+      "type": "CREDIT",
+      "amount": 1534.96,
+      "currency": "USD",
+      "timestamp": "2025-07-30T05:19:00",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000073",
+      "account_id": "A000024",
+      "type": "CREDIT",
+      "amount": 1438.12,
+      "currency": "USD",
+      "timestamp": "2024-04-28T04:22:17",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000074",
+      "account_id": "A000019",
+      "type": "DEBIT",
+      "amount": -56.23,
+      "currency": "USD",
+      "timestamp": "2025-06-13T11:15:28",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000075",
+      "account_id": "A000030",
+      "type": "DEBIT",
+      "amount": -1916.55,
+      "currency": "USD",
+      "timestamp": "2023-11-05T02:16:12",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000076",
+      "account_id": "A000019",
+      "type": "CREDIT",
+      "amount": 1382.78,
+      "currency": "USD",
+      "timestamp": "2023-06-08T07:09:21",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000077",
+      "account_id": "A000025",
+      "type": "DEBIT",
+      "amount": -606.66,
+      "currency": "USD",
+      "timestamp": "2025-05-29T03:29:41",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000078",
+      "account_id": "A000012",
+      "type": "DEBIT",
+      "amount": -1067.83,
+      "currency": "USD",
+      "timestamp": "2023-04-18T02:53:36",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000079",
+      "account_id": "A000021",
+      "type": "DEBIT",
+      "amount": -685.76,
+      "currency": "USD",
+      "timestamp": "2025-01-31T12:02:39",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000080",
+      "account_id": "A000014",
+      "type": "DEBIT",
+      "amount": -1921.77,
+      "currency": "USD",
+      "timestamp": "2023-08-26T15:55:24",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000081",
+      "account_id": "A000006",
+      "type": "DEBIT",
+      "amount": -1468.92,
+      "currency": "USD",
+      "timestamp": "2025-08-14T18:52:36",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000082",
+      "account_id": "A000025",
+      "type": "DEBIT",
+      "amount": -969.58,
+      "currency": "USD",
+      "timestamp": "2025-07-09T09:03:17",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000083",
+      "account_id": "A000011",
+      "type": "DEBIT",
+      "amount": -1704.17,
+      "currency": "USD",
+      "timestamp": "2024-03-09T07:11:55",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000084",
+      "account_id": "A000008",
+      "type": "DEBIT",
+      "amount": -1502.2,
+      "currency": "USD",
+      "timestamp": "2024-06-06T13:46:30",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000085",
+      "account_id": "A000016",
+      "type": "CREDIT",
+      "amount": 1702.65,
+      "currency": "USD",
+      "timestamp": "2025-01-27T09:10:44",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000086",
+      "account_id": "A000012",
+      "type": "DEBIT",
+      "amount": -1596.68,
+      "currency": "USD",
+      "timestamp": "2024-03-10T10:25:26",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000087",
+      "account_id": "A000023",
+      "type": "DEBIT",
+      "amount": -1760.81,
+      "currency": "USD",
+      "timestamp": "2025-03-13T13:15:35",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000088",
+      "account_id": "A000003",
+      "type": "DEBIT",
+      "amount": -486.51,
+      "currency": "USD",
+      "timestamp": "2025-01-28T23:30:08",
+      "description": "Online transfer"
+    },
+    {
+      "transaction_id": "T0000089",
+      "account_id": "A000025",
+      "type": "DEBIT",
+      "amount": -484.45,
+      "currency": "USD",
+      "timestamp": "2025-09-30T09:00:19",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000090",
+      "account_id": "A000016",
+      "type": "DEBIT",
+      "amount": -899.11,
+      "currency": "USD",
+      "timestamp": "2023-05-25T13:16:49",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000091",
+      "account_id": "A000008",
+      "type": "CREDIT",
+      "amount": 811.78,
+      "currency": "USD",
+      "timestamp": "2024-04-20T16:11:17",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000092",
+      "account_id": "A000019",
+      "type": "DEBIT",
+      "amount": -741.2,
+      "currency": "USD",
+      "timestamp": "2024-10-22T23:55:54",
+      "description": "Card payment"
+    },
+    {
+      "transaction_id": "T0000093",
+      "account_id": "A000018",
+      "type": "DEBIT",
+      "amount": -664.93,
+      "currency": "USD",
+      "timestamp": "2024-02-25T20:29:47",
+      "description": "ACH credit"
+    },
+    {
+      "transaction_id": "T0000094",
+      "account_id": "A000009",
+      "type": "CREDIT",
+      "amount": 464.92,
+      "currency": "USD",
+      "timestamp": "2024-05-05T04:28:48",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000095",
+      "account_id": "A000024",
+      "type": "CREDIT",
+      "amount": 1074.05,
+      "currency": "USD",
+      "timestamp": "2023-10-25T13:09:54",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000096",
+      "account_id": "A000024",
+      "type": "DEBIT",
+      "amount": -970.98,
+      "currency": "USD",
+      "timestamp": "2023-06-06T03:53:05",
+      "description": "ATM withdrawal"
+    },
+    {
+      "transaction_id": "T0000097",
+      "account_id": "A000010",
+      "type": "CREDIT",
+      "amount": 458.83,
+      "currency": "USD",
+      "timestamp": "2024-04-14T13:21:09",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000098",
+      "account_id": "A000023",
+      "type": "DEBIT",
+      "amount": -1070.6,
+      "currency": "USD",
+      "timestamp": "2023-03-12T16:56:53",
+      "description": "POS purchase"
+    },
+    {
+      "transaction_id": "T0000099",
+      "account_id": "A000018",
+      "type": "CREDIT",
+      "amount": 587.81,
+      "currency": "USD",
+      "timestamp": "2025-09-17T21:30:15",
+      "description": "Check deposit"
+    },
+    {
+      "transaction_id": "T0000100",
+      "account_id": "A000004",
+      "type": "DEBIT",
+      "amount": -1746.08,
+      "currency": "USD",
+      "timestamp": "2024-12-30T04:23:11",
+      "description": "Check deposit"
+    }
+  ]
+}

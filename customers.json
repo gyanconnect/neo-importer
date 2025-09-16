@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "C00001",
+    "first_name": "Noah",
+    "last_name": "Smith",
+    "email": "noah.smith1@example.com",
+    "phone": "+1-450-428-3286",
+    "city": "Phoenix",
+    "state": "AZ",
+    "created_at": "2021-07-29",
+    "active": true
+  },
+  {
+    "customer_id": "C00002",
+    "first_name": "Elijah",
+    "last_name": "Wilson",
+    "email": "elijah.wilson2@example.com",
+    "phone": "+1-230-295-4582",
+    "city": "New York",
+    "state": "NY",
+    "created_at": "2022-04-22",
+    "active": true
+  },
+  {
+    "customer_id": "C00003",
+    "first_name": "Evelyn",
+    "last_name": "Miller",
+    "email": "evelyn.miller3@example.com",
+    "phone": "+1-629-425-8359",
+    "city": "Dallas",
+    "state": "TX",
+    "created_at": "2024-04-21",
+    "active": true
+  },
+  {
+    "customer_id": "C00004",
+    "first_name": "Ava",
+    "last_name": "Garcia",
+    "email": "ava.garcia4@example.com",
+    "phone": "+1-548-484-3547",
+    "city": "San Antonio",
+    "state": "TX",
+    "created_at": "2022-03-17",
+    "active": true
+  },
+  {
+    "customer_id": "C00005",
+    "first_name": "Noah",
+    "last_name": "Williams",
+    "email": "noah.williams5@example.com",
+    "phone": "+1-299-567-6635",
+    "city": "San Antonio",
+    "state": "TX",
+    "created_at": "2024-05-21",
+    "active": true
+  },
+  {
+    "customer_id": "C00006",
+    "first_name": "Liam",
+    "last_name": "Anderson",
+    "email": "liam.anderson6@example.com",
+    "phone": "+1-327-587-2291",
+    "city": "Dallas",
+    "state": "TX",
+    "created_at": "2024-02-05",
+    "active": true
+  },
+  {
+    "customer_id": "C00007",
+    "first_name": "Abigail",
+    "last_name": "Lopez",
+    "email": "abigail.lopez7@example.com",
+    "phone": "+1-396-921-2139",
+    "city": "San Jose",
+    "state": "CA",
+    "created_at": "2021-04-04",
+    "active": true
+  },
+  {
+    "customer_id": "C00008",
+    "first_name": "Mason",
+    "last_name": "Williams",
+    "email": "mason.williams8@example.com",
+    "phone": "+1-303-589-5554",
+    "city": "Houston",
+    "state": "TX",
+    "created_at": "2023-07-18",
+    "active": true
+  },
+  {
+    "customer_id": "C00009",
+    "first_name": "Ethan",
+    "last_name": "Lopez",
+    "email": "ethan.lopez9@example.com",
+    "phone": "+1-414-886-5374",
+    "city": "Philadelphia",
+    "state": "PA",
+    "created_at": "2024-12-08",
+    "active": true
+  },
+  {
+    "customer_id": "C00010",
+    "first_name": "Abigail",
+    "last_name": "Garcia",
+    "email": "abigail.garcia10@example.com",
+    "phone": "+1-946-450-3677",
+    "city": "Dallas",
+    "state": "TX",
+    "created_at": "2023-08-05",
+    "active": false
+  },
+  {
+    "customer_id": "C00011",
+    "first_name": "Sophia",
+    "last_name": "Moore",
+    "email": "sophia.moore11@example.com",
+    "phone": "+1-901-532-1916",
+    "city": "Houston",
+    "state": "TX",
+    "created_at": "2022-04-15",
+    "active": true
+  },
+  {
+    "customer_id": "C00012",
+    "first_name": "Isabella",
+    "last_name": "Gonzalez",
+    "email": "isabella.gonzalez12@example.com",
+    "phone": "+1-267-416-6155",
+    "city": "Phoenix",
+    "state": "AZ",
+    "created_at": "2022-03-12",
+    "active": false
+  },
+  {
+    "customer_id": "C00013",
+    "first_name": "Charlotte",
+    "last_name": "Anderson",
+    "email": "charlotte.anderson13@example.com",
+    "phone": "+1-471-342-5040",
+    "city": "Chicago",
+    "state": "IL",
+    "created_at": "2024-02-24",
+    "active": true
+  },
+  {
+    "customer_id": "C00014",
+    "first_name": "Elijah",
+    "last_name": "Wilson",
+    "email": "elijah.wilson14@example.com",
+    "phone": "+1-608-570-4593",
+    "city": "San Jose",
+    "state": "CA",
+    "created_at": "2021-10-11",
+    "active": false
+  },
+  {
+    "customer_id": "C00015",
+    "first_name": "Mia",
+    "last_name": "Johnson",
+    "email": "mia.johnson15@example.com",
+    "phone": "+1-356-842-3621",
+    "city": "Los Angeles",
+    "state": "CA",
+    "created_at": "2024-10-25",
+    "active": false
+  },
+  {
+    "customer_id": "C00016",
+    "first_name": "Abigail",
+    "last_name": "Williams",
+    "email": "abigail.williams16@example.com",
+    "phone": "+1-590-810-8668",
+    "city": "San Antonio",
+    "state": "TX",
+    "created_at": "2023-12-20",
+    "active": true
+  },
+  {
+    "customer_id": "C00017",
+    "first_name": "Evelyn",
+    "last_name": "Smith",
+    "email": "evelyn.smith17@example.com",
+    "phone": "+1-898-749-5371",
+    "city": "Los Angeles",
+    "state": "CA",
+    "created_at": "2024-08-05",
+    "active": true
+  },
+  {
+    "customer_id": "C00018",
+    "first_name": "Noah",
+    "last_name": "Martinez",
+    "email": "noah.martinez18@example.com",
+    "phone": "+1-361-664-1053",
+    "city": "San Antonio",
+    "state": "TX",
+    "created_at": "2022-06-24",
+    "active": true
+  },
+  {
+    "customer_id": "C00019",
+    "first_name": "Benjamin",
+    "last_name": "Brown",
+    "email": "benjamin.brown19@example.com",
+    "phone": "+1-854-719-4258",
+    "city": "Phoenix",
+    "state": "AZ",
+    "created_at": "2021-11-10",
+    "active": true
+  },
+  {
+    "customer_id": "C00020",
+    "first_name": "Ethan",
+    "last_name": "Moore",
+    "email": "ethan.moore20@example.com",
+    "phone": "+1-200-813-6310",
+    "city": "Dallas",
+    "state": "TX",
+    "created_at": "2023-09-28",
+    "active": true
+  }
+]
